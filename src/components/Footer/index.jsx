@@ -90,17 +90,14 @@ export default function index() {
                                 DogPam © {new Date().getFullYear()} Todos direitos reservados.
                             </Styled.WebsiteRights>
                             <Styled.SocialIcons>
-                                <Styled.SocialIconLink href="/" target="_blank" aria-label="Facebook">
+                                <Styled.SocialIconLink href="https://www.facebook.com/dogpamoficial" target="_blank" aria-label="Facebook">
                                     <FaFacebook />
                                 </Styled.SocialIconLink>
                                 <Styled.SocialIconLink href="https://www.instagram.com/dogpam.oficial/" target="_blank" aria-label="Instagram">
                                     <FaInstagram />
                                 </Styled.SocialIconLink>
-                                <Styled.SocialIconLink href="/" target="_blank" aria-label="Youtube">
+                                <Styled.SocialIconLink href="https://www.youtube.com/channel/UC3QjCasWbPxnzguoF3HxfWQ" target="_blank" aria-label="Youtube">
                                     <FaYoutube />
-                                </Styled.SocialIconLink>
-                                <Styled.SocialIconLink href="/" target="_blank" aria-label="Twitter">
-                                    <FaTwitter />
                                 </Styled.SocialIconLink>
                                 <Styled.SocialIconLink href="https://www.linkedin.com/company/dogpam/" target="_blank" aria-label="Linkedin">
                                     <FaLinkedin />
